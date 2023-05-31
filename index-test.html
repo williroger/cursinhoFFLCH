@@ -1,0 +1,40 @@
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.0.0/core.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/md5.js"></script>
+
+<h1>The Window Object</h1>
+<h2>The prompt() Method</h2>
+
+<button onclick="myFunction()">Testar</button>
+
+<p id="demo"></p>
+
+
+<script>
+
+		//alert(hash);
+   
+   
+		function myFunction() {
+		
+			let person = prompt("CHAVE", "Harry Potter");
+			
+			hash = CryptoJS.MD5("Harry Potter");
+			personHash = CryptoJS.MD5(person);
+			
+		//	console.log("hash: " + hash)
+		//	console.log(typeof hash)
+		//	console.log("personHash: " + personHash)
+		//	console.log(typeof personHash)
+		//	console.log(hash == personHash)
+	
+		//	console.log(JSON.stringify(hash) === JSON.stringify(personHash))
+	
+			if (JSON.stringify(hash) === JSON.stringify(personHash)){
+				document.getElementById("demo").innerHTML = "É IGUAL";
+			} else {
+				document.getElementById("demo").innerHTML = "DIFERENTE";
+			}
+			
+		}
+
+</script>
