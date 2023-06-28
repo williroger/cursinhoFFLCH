@@ -10,8 +10,19 @@
 <body>
     <div class="container mx-auto p-2">      
         <h1>Resultado Simulado Cursinho FFLCH</h1>
-        <div id="data-container"></div>
-		
+		<form class="row g-3">
+			<div class="col-auto">
+			  <label for="staticEmail2" class="visually-hidden">Número de Identificação</label>
+			  <input type="text" readonly class="form-control-plaintext" id="staticEmail2" value="Número de Identificação">
+			</div>
+			<div class="col-auto">
+			  <label for="inputPassword2" class="visually-hidden">00</label>
+			  <input type="text" class="form-control" id="inputIdEstudante" placeholder="00">
+			</div>
+			<div class="col-auto">
+			  <button onclick="SendInput()" class="btn btn-primary mb-3">Confirma</button>
+			</div>
+		</form>
 		<div class="card text-center">
 		  <div class="card-header">
 			RESULTADO DA REDAÇÃO
@@ -21,19 +32,19 @@
 			<p class="card-text" id="comentario"></p>
 		  </div>
 		  <div class="card-footer text-body-secondary">
-			COMP 1 BLBALBLA
+1 – Domínio da escrita formal da Língua Portuguesa <span class="badge text-bg-secondary" id="c1"></span>
 		  </div>
 		  <div class="card-footer text-body-secondary">
-			COMP 2 BLBALBLA
+2 – Compreender o tema e não fugir da proposta daredação do enem <span class="badge text-bg-secondary" id="c2"></span>
 		  </div>
 		  <div class="card-footer text-body-secondary">
-			COMP 3 BLBALBLA
+3 – Organização das ideias <span class="badge text-bg-secondary" id="c3"></span>
 		  </div>
 		  <div class="card-footer text-body-secondary">
-			COMP 4 BLBALBLA
+4 – Coesão e coerência na redação do enem <span class="badge text-bg-secondary" id="c4"></span>
 		  </div>
 		  <div class="card-footer text-body-secondary">
-			COMP 5 BLBALBLA
+5 – Proposta de Intervenção <span class="badge text-bg-secondary" id="c5"></span>
 		  </div>
 		  
 		</div>
