@@ -4,7 +4,7 @@ window.onload = function() {
         .then(function(response) {
             return response.json();
         })
-        .then(function(data) {
+        .then(function(./data.json) {
             // Manipula os dados JSON
             var dataContainer = document.getElementById('data-container');
             dataContainer.innerHTML = JSON.stringify(data);
