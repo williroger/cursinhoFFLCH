@@ -1,4 +1,4 @@
-function resultado() {
+function Resultado() {
 	console.log("resultado")
     // Carrega o arquivo JSON
     fetch('https://williroger.github.io/cursinhoFFLCH/data/red.json')
@@ -7,8 +7,24 @@ function resultado() {
         })
         .then(function(data) {
 			
+		
+			
+			//captura o idEstudante
+			var inputIdEstudante = document.getElementById("inputIdEstudante").value
+			
+			// pega o valor do Id (se é object ou undefined)
+			var teste = typeof(data[`${inputIdEstudante}`])		
+	
+			//valida se existe esse ID
+			
+			if (JSON.stringify(teste) != JSON.stringify("undefined")) {
+				var idEstudante = inputIdEstudante;
+			  } else {
+				var idEstudante = 10;
+			}
+
+		
             // Manipula os dados JSON
-			var idEstudante = inputIdEstudante
 			var zero = JSON.stringify(data[`${idEstudante}`]['zero']);
 			var motivoZero = JSON.stringify(data[`${idEstudante}`]['motivo_zero']);
 			var c1 = parseInt(JSON.stringify(data[`${idEstudante}`]['c1']));
@@ -41,7 +57,6 @@ function resultado() {
 			var dataContainer = document.getElementById('c5');
             dataContainer.innerHTML = c5;
 			
-		
         })
         .catch(function(error) {
             console.log('Ocorreu um erro ao carregar o arquivo JSON:', error);
@@ -50,6 +65,5 @@ function resultado() {
 
 
 function SendInput(){
-	var inputIdEstudante = document.getElementById("inputIdEstudante").value
 	Resultado()
 }
