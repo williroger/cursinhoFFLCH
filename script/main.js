@@ -20,7 +20,7 @@ function Resultado() {
 			if (JSON.stringify(teste) != JSON.stringify("undefined")) {
 				var idEstudante = inputIdEstudante;
 			  } else {
-				var idEstudante = 10;
+				var idEstudante = "erro"; //usa o ID ZERO
 			}
 
 		

@@ -1,4 +1,14 @@
 {
+    "erro": {
+      "zero": "Não",
+      "motivo_zero": "VERIFIQUE SEU ID",
+      "c1": 100,
+      "c2": 100,
+      "c3": 100,
+      "c4": 100,
+      "c5": 100,
+      "comentario": "VERIFIQUE SEU ID"
+    },
     "10": {
       "zero": "Não",
       "motivo_zero": "",
@@ -7,7 +17,7 @@
       "c3": 160,
       "c4": 160,
       "c5": 120,
-      "comentario": "- No geral, a redação esta boa mas pode melhorar na caligrafia, letras grandes ocupam espaços de bons argumentos; desenvolva mais seus pensamentos, já demonstrou que tem um pensamento crítico, agora e estruturar.\n- A palavra influenciar não tem acento, atenção aos plurais.\n- Proposta de intervenção incompleta: faltou o modo. Uma dica: discorra sobre um problema e resolva-o, se vai desenvolver só sobre fake news resolva sobre fake news."
+      "comentario": "- No geral, a redação esta boa mas pode melhorar na caligrafia, letras grandes ocupam espaços de bons argumentos; desenvolva mais seus pensamentos, já demonstrou que tem um pensamento crítico, agora e estruturar. -- A palavra influenciar não tem acento, atenção aos plurais. -- Proposta de intervenção incompleta: faltou o modo. Uma dica: discorra sobre um problema e resolva-o, se vai desenvolver só sobre fake news resolva sobre fake news."
     },
     "11": {
       "zero": "Não",
@@ -17,7 +27,7 @@
       "c3": 120,
       "c4": 120,
       "c5": 80,
-      "comentario": "- Atenção na ortografia, algumas palavras acabam emendando e isso dificulta a leitura; \n- Já apesente as problemáticas a serem trabalhadas na introdução, isso mostra organização no texto;\n-  coloque corretamente os artigos, a palavra 'estadunidense' não tem hífen,  cuidado com a repetição excessiva de palavras ( como chips), atenção ao colocar vírgulas,\n- Organize melhor seus parágrafos, a média de 7 linhas para cada;\n- Sobre a proposta: está incompleta, falta a finalidade.  proposta que governos tomem responsabilidade é bem fraca  extremamente vaga, procure desenvolver melhor a conclusão, afinal  ela fecha seu texto.\n- Você usa bem os conectivos, aproveite isso, mas não encontrei referencias, filósofos nada que te ajude a tornar seu argumento mais sólido."
+      "comentario": "- Atenção na ortografia, algumas palavras acabam emendando e isso dificulta a leitura;  -- Já apesente as problemáticas a serem trabalhadas na introdução, isso mostra organização no texto; --  coloque corretamente os artigos, a palavra 'estadunidense' não tem hífen,  cuidado com a repetição excessiva de palavras ( como chips), atenção ao colocar vírgulas, -- Organize melhor seus parágrafos, a média de 7 linhas para cada; -- Sobre a proposta: está incompleta, falta a finalidade.  proposta que governos tomem responsabilidade é bem fraca  extremamente vaga, procure desenvolver melhor a conclusão, afinal  ela fecha seu texto. -- Você usa bem os conectivos, aproveite isso, mas não encontrei referencias, filósofos nada que te ajude a tornar seu argumento mais sólido."
     },
     "14": {
       "zero": "Não",
@@ -27,7 +37,7 @@
       "c3": 80,
       "c4": 80,
       "c5": 120,
-      "comentario": "- Muito cuidado ao repetir palavras\n- Não encontrei nenhuma informação que endosse o seu posicionamento, nesse momentos use seu repertório próprio, filmes, filósofos, músicas são muito bem vindos na redação, desde que conversem com o tema, é claro.\n- Escreva mais! Uma boa redação tem 4 parágrafos e geralmente cada um conta com 7 linhas, isso fará com que seu texto fique bem desenvolvido. \n- Estude mais a estrutura de cada parágrafo, isso pode te ajudar a planejar melhor seu texto.\n- Sobre a proposta: procure seguir o padrão na ordem agente, ação, modo/meio, detalhamento, finalidade. Dessa forma você demonstrará melhor capacidade em organizar seu texto."
+      "comentario": "- Muito cuidado ao repetir palavras -- Não encontrei nenhuma informação que endosse o seu posicionamento, nesse momentos use seu repertório próprio, filmes, filósofos, músicas são muito bem vindos na redação, desde que conversem com o tema, é claro. -- Escreva mais! Uma boa redação tem 4 parágrafos e geralmente cada um conta com 7 linhas, isso fará com que seu texto fique bem desenvolvido.  -- Estude mais a estrutura de cada parágrafo, isso pode te ajudar a planejar melhor seu texto. -- Sobre a proposta: procure seguir o padrão na ordem agente, ação, modo/meio, detalhamento, finalidade. Dessa forma você demonstrará melhor capacidade em organizar seu texto."
     },
     "15": {
       "zero": "Não",
@@ -117,7 +127,7 @@
       "c3": 120,
       "c4": 120,
       "c5": 40,
-      "comentario": "Cuidado com a fuga do tema, ao inserir casos com manipulação humana.\n Utilize mais os textos de apoio, cite-os para embasar a tese.\nCuidados ao citar caso de influencer pois pode criar uma distância entre o autor/texto e o leitor.\nProposta de intervenção vaga e parcialmente incorreta. O poder de intervenção do ministério da segurança é bem limitado pelas leis. Pense em algo que esteja mais relacionado ao tema, por exemplo, como as plataformas podem agir quanto a casos que prejudiquem a sociedade?"
+      "comentario": "Cuidado com a fuga do tema, ao inserir casos com manipulação humana. - Utilize mais os textos de apoio, cite-os para embasar a tese.\nCuidados ao citar caso de influencer pois pode criar uma distância entre o autor/texto e o leitor.\nProposta de intervenção vaga e parcialmente incorreta. O poder de intervenção do ministério da segurança é bem limitado pelas leis. Pense em algo que esteja mais relacionado ao tema, por exemplo, como as plataformas podem agir quanto a casos que prejudiquem a sociedade?"
     },
     "28": {
       "zero": "Não",
@@ -457,7 +467,7 @@
       "c3": 120,
       "c4": 120,
       "c5": 80,
-      "comentario": "- Melhorar a ortografia, letras muito grandes dificultam a leitura e gastam espaço que poderia ser usado num melhor construção de argumentos.\n- Atenção à gramática!\n- Procurar amadurecer a argumentação. \n- Se citar um filme, pensador ou livro, EXPLIQUE A IDEIA. Se não explicar é um argumento raso.\n- Prefira fazer uma proposta de intervenção bem feita do que duas soltas. \n- Tenha mais atenção às vírgulas e pontuações\n."
+      "comentario": "- Melhorar a ortografia, letras muito grandes dificultam a leitura e gastam espaço que poderia ser usado num melhor construção de argumentos. -- Atenção à gramática! -- Procurar amadurecer a argumentação.  -- Se citar um filme, pensador ou livro, EXPLIQUE A IDEIA. Se não explicar é um argumento raso. -- Prefira fazer uma proposta de intervenção bem feita do que duas soltas.  -- Tenha mais atenção às vírgulas e pontuações -."
     },
     "09": {
       "zero": "Não",
@@ -467,6 +477,6 @@
       "c3": 120,
       "c4": 120,
       "c5": 80,
-      "comentario": "- use HÁ MUITOS, há com H para indicar tempo passado.\n- atenção na pontuação (principalmente vírgulas e o acento agudo.)\n- depois de ''porém'' coloque vírgula, a expressão ''por exemplo'' deve sempre estar entre vírgulas.\n- lembre de problematizar! Por que citar matrix? qual o problema das empresas terem esse controle? qual o problema de jovens serem os mais atingidos na internet? Tudo isso serve para estruturar melhor sua argumentação.\n- sua proposta de intervenção esta incompleta. Qual seria o agente e a finalidade?"
+      "comentario": "- use HÁ MUITOS, há com H para indicar tempo passado. -- atenção na pontuação (principalmente vírgulas e o acento agudo.) -- depois de ''porém'' coloque vírgula, a expressão ''por exemplo'' deve sempre estar entre vírgulas. -- lembre de problematizar! Por que citar matrix? qual o problema das empresas terem esse controle? qual o problema de jovens serem os mais atingidos na internet? Tudo isso serve para estruturar melhor sua argumentação. -- sua proposta de intervenção esta incompleta. Qual seria o agente e a finalidade?"
     }
   }
