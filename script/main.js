@@ -38,7 +38,10 @@ function Resultado() {
 			
             var dataContainer = document.getElementById('somRedacao');
             dataContainer.innerHTML = 'TOTAL: '+somRedacao;
-			
+
+			var dataContainer = document.getElementById('motivoZero');
+            dataContainer.innerHTML = motivoZero;	
+
 			var dataContainer = document.getElementById('comentario');
             dataContainer.innerHTML = comentario;				
 			
