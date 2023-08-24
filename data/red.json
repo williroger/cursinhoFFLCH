@@ -1,13 +1,13 @@
 {
     "erro": {
       "zero": "Não",
-      "motivo_zero": "VERIFIQUE SEU ID",
+      "motivo_zero": "ERRO - VERIFIQUE SEU ID",
       "c1": 100,
       "c2": 100,
       "c3": 100,
       "c4": 100,
       "c5": 100,
-      "comentario": "VERIFIQUE SEU ID"
+      "comentario": "ERRO - VERIFIQUE SEU ID"
     },
     "10": {
       "zero": "Não",
