@@ -1,0 +1,190 @@
+{
+  "101": {
+    "Acertos": 36,
+    "Porcentagem": 40
+  },
+  "139": {
+    "Acertos": 32,
+    "Porcentagem": 35.6
+  },
+  "143": {
+    "Acertos": 37,
+    "Porcentagem": 41.1
+  },
+  "168": {
+    "Acertos": 32,
+    "Porcentagem": 35.6
+  },
+  "182": {
+    "Acertos": 29,
+    "Porcentagem": 32.2
+  },
+  "198": {
+    "Acertos": 26,
+    "Porcentagem": 28.9
+  },
+  "204": {
+    "Acertos": 35,
+    "Porcentagem": 38.9
+  },
+  "225": {
+    "Acertos": 30,
+    "Porcentagem": 33.3
+  },
+  "227": {
+    "Acertos": 31,
+    "Porcentagem": 34.4
+  },
+  "244": {
+    "Acertos": 40,
+    "Porcentagem": 44.4
+  },
+  "260": {
+    "Acertos": 41,
+    "Porcentagem": 45.6
+  },
+  "264": {
+    "Acertos": 31,
+    "Porcentagem": 34.4
+  },
+  "269": {
+    "Acertos": 39,
+    "Porcentagem": 43.3
+  },
+  "291": {
+    "Acertos": 29,
+    "Porcentagem": 32.2
+  },
+  "308": {
+    "Acertos": 31,
+    "Porcentagem": 34.4
+  },
+  "312": {
+    "Acertos": 37,
+    "Porcentagem": 41.1
+  },
+  "330": {
+    "Acertos": 34,
+    "Porcentagem": 37.8
+  },
+  "345": {
+    "Acertos": 31,
+    "Porcentagem": 34.4
+  },
+  "386": {
+    "Acertos": 23,
+    "Porcentagem": 25.6
+  },
+  "399": {
+    "Acertos": 41,
+    "Porcentagem": 45.6
+  },
+  "414": {
+    "Acertos": 37,
+    "Porcentagem": 41.1
+  },
+  "422": {
+    "Acertos": 36,
+    "Porcentagem": 40
+  },
+  "450": {
+    "Acertos": 41,
+    "Porcentagem": 45.6
+  },
+  "473": {
+    "Acertos": 31,
+    "Porcentagem": 34.4
+  },
+  "480": {
+    "Acertos": 35,
+    "Porcentagem": 38.9
+  },
+  "509": {
+    "Acertos": 28,
+    "Porcentagem": 31.1
+  },
+  "548": {
+    "Acertos": 24,
+    "Porcentagem": 26.7
+  },
+  "561": {
+    "Acertos": 34,
+    "Porcentagem": 37.8
+  },
+  "582": {
+    "Acertos": 32,
+    "Porcentagem": 35.6
+  },
+  "608": {
+    "Acertos": 34,
+    "Porcentagem": 37.8
+  },
+  "617": {
+    "Acertos": 42,
+    "Porcentagem": 46.7
+  },
+  "622": {
+    "Acertos": 33,
+    "Porcentagem": 36.7
+  },
+  "629": {
+    "Acertos": 40,
+    "Porcentagem": 44.4
+  },
+  "631": {
+    "Acertos": 29,
+    "Porcentagem": 32.2
+  },
+  "632": {
+    "Acertos": 31,
+    "Porcentagem": 34.4
+  },
+  "657": {
+    "Acertos": 22,
+    "Porcentagem": 24.4
+  },
+  "664": {
+    "Acertos": 34,
+    "Porcentagem": 37.8
+  },
+  "681": {
+    "Acertos": 35,
+    "Porcentagem": 38.9
+  },
+  "710": {
+    "Acertos": 21,
+    "Porcentagem": 23.3
+  },
+  "725": {
+    "Acertos": 33,
+    "Porcentagem": 36.7
+  },
+  "769": {
+    "Acertos": 28,
+    "Porcentagem": 31.1
+  },
+  "773": {
+    "Acertos": 30,
+    "Porcentagem": 33.3
+  },
+  "784": {
+    "Acertos": 10,
+    "Porcentagem": 11.1
+  },
+  "825": {
+    "Acertos": 26,
+    "Porcentagem": 28.9
+  },
+  "830": {
+    "Acertos": 42,
+    "Porcentagem": 46.7
+  },
+  "900": {
+    "Acertos": 29,
+    "Porcentagem": 32.2
+  },
+  "942": {
+    "Acertos": 22,
+    "Porcentagem": 24.4
+  }
+}

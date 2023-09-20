@@ -1,7 +1,7 @@
 function Resultado() {
 	console.log("resultado")
     // Carrega o arquivo JSON
-    fetch('https://williroger.github.io/cursinhoFFLCH/redacao-enem/data/red.json')
+    fetch('https://williroger.github.io/cursinhoFFLCH/fuvest-17-09-23/data/fuvest170923.json')
         .then(function(response) {
             return response.json();
         })
@@ -25,8 +25,10 @@ function Resultado() {
 
 		
             // Manipula os dados JSON
-			var zero = JSON.stringify(data[`${idEstudante}`]['zero']);
-			var motivoZero = JSON.stringify(data[`${idEstudante}`]['motivo_zero']);
+			var zero = JSON.stringify(data[`${idEstudante}`]['Acertos']);
+			var motivoZero = JSON.stringify(data[`${idEstudante}`]['Porcentagem']);
+
+
 			var c1 = parseInt(JSON.stringify(data[`${idEstudante}`]['c1']));
 			var c2 = parseInt(JSON.stringify(data[`${idEstudante}`]['c2']));
 			var c3 = parseInt(JSON.stringify(data[`${idEstudante}`]['c3']));
