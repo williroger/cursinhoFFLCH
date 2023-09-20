@@ -186,5 +186,9 @@
   "942": {
     "Acertos": 22,
     "Porcentagem": 24.4
+  },
+  "erro": {
+    "Acertos": "ERRO - VERIFIQUE SEU ID",
+    "Porcentagem": "ERRO - VERIFIQUE SEU ID"
   }
 }

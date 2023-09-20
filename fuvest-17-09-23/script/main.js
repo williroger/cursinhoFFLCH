@@ -16,7 +16,11 @@ function Resultado() {
 			var teste = typeof(data[`${inputIdEstudante}`])		
 	
 			//valida se existe esse ID
-			
+            //"erro": {
+            //    "Acertos": "ERRO - VERIFIQUE SEU ID",
+            //   "Porcentagem": "ERRO - VERIFIQUE SEU ID"
+            //  }
+
 			if (JSON.stringify(teste) != JSON.stringify("undefined")) {
 				var idEstudante = inputIdEstudante;
 			  } else {
@@ -25,15 +29,15 @@ function Resultado() {
 
 		
             // Manipula os dados JSON
-			var motivoZero = JSON.stringify(data[`${idEstudante}`]['Acertos']);
-			var comentario = JSON.stringify(data[`${idEstudante}`]['Porcentagem']);
+			var acertos = JSON.stringify(data[`${idEstudante}`]['Acertos']);
+			var porcentagem = JSON.stringify(data[`${idEstudante}`]['Porcentagem']);
 
 
-			var dataContainer = document.getElementById('motivoZero');
-            dataContainer.innerHTML = motivoZero;	
+			var dataContainer = document.getElementById('acertos');
+            dataContainer.innerHTML = 'TOTAL DE ACERTOS: '+acertos;	
 
-			var dataContainer = document.getElementById('comentario');
-            dataContainer.innerHTML = comentario;				
+			var dataContainer = document.getElementById('porcentagem');
+            dataContainer.innerHTML = porcentagem+'% da prova';				
 			
 			
         })
